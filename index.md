@@ -1,1 +1,5 @@
-test
+The Aorta
+
+Anatomy
+The aorta is invariably the largest arterial conduit in the body, serving as the channel through which blood from the heart travels to every other body part.  The wall of the aorta is comprised of three layers, which include the intima, media and adventitia.  Its typical course begins at the distal side of the aortic valve and terminates at the aortic bifurcation, where it splits into the two common iliac arteries. The thoracic segment provides blood flow to the great vessels of the aortic arch, ensuring perfusion to the head and bilateral upper extremities via the innominate artery, the left carotid artery, and the left subclavian artery.  The abdominal segment is a retroperitoneal structure that enters the abdominal cavity through the aortic hiatus, at the level of T12.  The branches from it include, in descending order, the two phrenic arteries, celiac axis, superior mesenteric artery, renal arteries, inferior mesenteric artery, and ultimately, the bilateral common iliac arteries.  The branches of both the thoracic and abdominal aorta provide blood flow to areas of critically vital viscera.
+
